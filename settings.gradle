@@ -1,0 +1,2 @@
+rootProject.name = 'korge-gdx-pre-loader'
+enableFeaturePreview('GRADLE_METADATA')
